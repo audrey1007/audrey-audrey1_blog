@@ -1,11 +1,11 @@
 ---
 title: "About Me"
-author:
+author: 
   - name: "___" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
+I'm Audrey Pinchon. I study Biology at UMons. I'm second year of bachelor (2020-2021).
+My English teacher's name is Mrs Van Lancker.
 
-- first name/surname, teacher’s name, class name and academic year
