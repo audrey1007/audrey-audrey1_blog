@@ -1,0 +1,43 @@
+---
+title: "Article 1 : Breast cancer: One-dose radiotherapy 'as effective as full course'"
+description: |
+  A short description of the post.
+author:
+  - name: Pinchon Audrey 
+    url: {}
+date: 10-23-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+# __Description__
+- Source of the article : https://www.bbc.com/news/health-53834130
+- Publication date : August 19th 2020
+- Word count : 632
+
+# __Vocabulary__
+
+# __Analysis about the study__
+
+# __Researchers__
+
+# __Published in ? When__
+
+# __General topic__
+
+# __Procedure/What was examined ?__
+
+# __Conclusions/Discovery__
+
+# __Remaining questions__
+
+
+
+
