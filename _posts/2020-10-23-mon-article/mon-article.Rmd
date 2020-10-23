@@ -23,12 +23,34 @@ Learn more about using Distill at <https://rstudio.github.io/distill>.
 - Word count : 632
 
 # __Vocabulary__
+| Word from the text | Synonym/definition in English |French translation |
+| --- | --- | --- |
+| Target | To use, set up, or designate as a target or goal | Cibler |
+| Likely | Probably  | Probablement |
+| To Raise  | To advance | Soulever |
+| Concern | Worry, solicitude, or anxiety | Inquiétude |
+| Lead | Most important, principal, leading, first | Principal |
+| Expect | To suppose, presume | S’attendre |
+| Fewer | Of a smaller number | Moins |
+| To involve | To include | Inclure |
+| Device | Instrument | Appareil |
+| Wreak | To carry out (damage, destruction) | Faire mal |
+| Havoc | Great destruction or devastation | Ravage |
+| Previous | Prior | Antérieur |
+| Related | Associated, connected |  Lié |
+| All clear | A signal that danger has passed | Feu vert, fin d’alerte |
+| Tiny | Very small, little | Petit |
+| Schedule | A plan of procedure, usually written, for a proposed objective, esp. with reference to the sequence of and time allotted for each item or operation necessary to its completion | Calendrier |
+| To improve | To bring into a more desirable or excellent | Améliorer |
+| To spare | Save | Épargner |
 
 # __Analysis about the study__
 
 # __Researchers__
+ The lead author of this study is Professor Jayant Vaidya. Targeted Intraoperative Radiotherapy was developed by doctors from at University College London. Joanne Haviland works at the cancer research institute. Martin Ledwick works at Cancer Research UK.
 
 # __Published in ? When__
+The study is published in the August 19 2020, in the BBC News newspaper.
 
 # __General topic__
 
