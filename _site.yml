@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/audrey1007/audrey-audrey1_blog
-base_url: audrey1007.github.io/audrey-audrey1_blog/
+base_url: http://audrey1007.github.io/audrey-audrey1_blog/ 
 collections:
     posts:
       share: [twitter, linkedin, facebook]
