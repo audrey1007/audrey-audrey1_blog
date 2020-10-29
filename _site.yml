@@ -14,8 +14,8 @@ navbar:
 base_url: http://audrey1007.github.io/audrey-audrey1_blog/ 
 collections:
     posts:
+      disqus : audreys-blog
       share: [twitter, linkedin, facebook]
-      #disqus: 
 output:
   distill::distill_article:
     css: style.css
