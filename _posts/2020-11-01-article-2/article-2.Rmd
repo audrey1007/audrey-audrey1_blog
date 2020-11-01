@@ -1,0 +1,50 @@
+---
+title: "Article 2 : Immunotherapy extends survival in mouse model of hard-to-treat breast cancer"
+description: 
+  
+author:
+  - name: Pinchon Audrey
+    url: {}
+date: 11-01-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# __Description__
+- source of the article : https://www.sciencedaily.com/releases/2020/08/200817104327.htm
+- Publication date : August 17th 2020
+- Word count : 659
+
+# __Vocabulary__
+| Word from the text |Synonym/definition in English | French translation |
+| --- | --- | --- |
+| Valuable | Of considerable use, importance, or value | De valeur |
+| To target | To use, set up, or designate as a target or goal | Cibler |
+| Dramatically | Considerably | Considérablement |
+| Standpoint | Figurative (point of view) | Point de vue |
+| To account for | To represent | Représenter |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+
+
+
