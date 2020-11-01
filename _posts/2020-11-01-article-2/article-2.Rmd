@@ -28,23 +28,68 @@ knitr::opts_chunk$set(echo = FALSE)
 | Dramatically | Considerably | Considérablement |
 | Standpoint | Figurative (point of view) | Point de vue |
 | To account for | To represent | Représenter |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+| Commonly | In a common manner | Couramment |
+| Drug | A chemical used in medecines for the treatment of disease, or to improve physical or mental well-being | Médicament |
+| To lack | To be absent or missing | Qui ne possède pas de, qui manque |
+| Poor | Bad | Mauvais |
+| To chop up | To cut | Hacher, couper |
+| Instead (of) | In place (of) | Au lieu de |
+| Core | Nucleus | Noyau |
+| Lymph nodes | Any of the glandlike masses of tissue in the lymphatic vessels containing cells that become lymphocytes. Also called lymph’ gland’ | Ganglions lymphatiques |
+| To occur | To happen, take place, come to pass | Se produire |
+| Whereas | While on the contrary | Tandis que |
+| Obvious | Evident | Évident |
+| Trial | The act of testing to find out if someone or something is useful, valuable, … | Essai  |
+| Perhaps | Maybe | Peut-être |
+| Overall | Covering or including everything | Global |
+
+
+# __Analysis about the study__
+
+# *__Researchers?__*
+|  
+| --- | --- |
+|  |  |
+- Doctor Cassandra Callmann
+- The Triple Negative Breast Cancer Foundation
+- American Cancer Society
+
+# *__Published in? When ?__*
+|  
+| --- | --- |
+|  |  |
+In Science Daily newspaper, on 17 August 2020
+
+# *__General topic__* 
+|  
+| --- | --- |
+|  |  |
+Researchers are working on a new type of immunotherapy for triple-negative breast cancer. It’s difficult to treat because it doesn’t produce antigens recognized by the immune system. This makes it difficult for the system to attack the tumour. Many drugs commonly used for breast cancer are not effective. Researchers do tests on mice. 
+
+# *__Procedure/What was examined__*
+|  
+| --- | --- |
+|  |  |
+-	Assembly of lysate and adjuvant to form a single nanoparticle: spherical nucleic acid (SNA).
+-	Implantation of triple-negative breast cancer tumors in mice. 
+-	Injection of SNA under the skin of mice with or without tumors.
+
+# *__Conclusions/ Discovery__*
+|  
+| --- | --- |
+|  |  |
+Two thirds of the mice receiving SNA with oxidized lysates had a complete remission of the tumor for approximately 90 days. Untreated mice died on day 30.
+Immunotherapy extends the survival time of mice with triple-negative cancer following injection of this tumor. None of the treated mice showed any obvious side effects or autoimmune responses. The test is not yet ready for clinical trials. Results will be available this fall.
+
+# *__Remaining questions__*
+|  
+| --- | --- |
+|  |  |
+/
+
+
+
+
 
 
 
