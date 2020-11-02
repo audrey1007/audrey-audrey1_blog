@@ -15,8 +15,9 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
 # __Description__
-- source of the article : https://www.sciencedaily.com/releases/2020/08/200817104327.htm
+- Source of the article : https://www.sciencedaily.com/releases/2020/08/200817104327.htm
 - Publication date : August 17th 2020
 - Word count : 659
 

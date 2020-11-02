@@ -12,7 +12,7 @@
     "date": "2020-11-01",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-11-01T16:56:13+01:00"
+    "last_modified": "2020-11-02T15:40:15+01:00"
   },
   {
     "path": "posts/meal/",
@@ -34,8 +34,8 @@
   },
   {
     "path": "posts/2020-10-23-mon-article/",
-    "title": "Article 1",
-    "description": "Breast cancer: One-dose radiotherapy 'as effective as full course'",
+    "title": "Article 1 : Breast cancer: One-dose radiotherapy 'as effective as full course'",
+    "description": {},
     "author": [
       {
         "name": "Pinchon Audrey",
@@ -45,7 +45,7 @@
     "date": "2020-10-23",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-23T22:59:38+02:00"
+    "last_modified": "2020-11-02T15:44:04+01:00"
   },
   {
     "path": "posts/about/",
