@@ -1,6 +1,6 @@
 ---
 title: "Article 3 : Study finds global trends in women's breast cancer show cause for concern"
-description: |
+description: 
   
 author:
   - name: Pinchon Audrey
@@ -30,23 +30,22 @@ knitr::opts_chunk$set(echo = FALSE)
 | Related | Associated, connected | Lié |
 | An income | Payment for goods or for services, or from rents or investments | Un revenu |
 | Knowledge | Familiarity with an area of study, as by study or experience | Connaissance |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+| To allow | To let | Permettre |
+| To tailor | To adapt | Adapter |
+| To curb | To restrain | Réduire, restreindre |
+| Burden | That which is difficult to bear; onus | Fardeau |
+| To provide | To make available; Furnish | Fournir |
+| Evidence | That which tends to prove or disprove something; Proof | Preuve |
+| To lead to | To result in | Mener à |
+| Behaviour | The manner of behaving | Comportement |
+| Screening | Scan for abnomalities | Dépistage |
+| A part | Role | Un rôle |
+| Case | To emphasize or make (something) stand out | Mettre en évidence |
+| To occur | To happen, take place, come to pass | Se produire |
+| A fatality | A death caused by a disaster | Une mortalité |
+| To decrease | To lessen, diminish | Diminuer |
+| Exposure | The act of exposing | Exposition |
+| Finding | Discovery | Résultat, la découverte |
 
 # __Analysis about the study__
 
