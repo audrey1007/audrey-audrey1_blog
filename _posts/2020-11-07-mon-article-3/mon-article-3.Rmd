@@ -45,7 +45,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | A fatality | A death caused by a disaster | Une mortalité |
 | To decrease | To lessen, diminish | Diminuer |
 | Exposure | The act of exposing | Exposition |
-| Finding | Discovery | Résultat, la découverte |
+| Finding | Discovery | Résultat, découverte |
 
 # __Analysis about the study__
 
