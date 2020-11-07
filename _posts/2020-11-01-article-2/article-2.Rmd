@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Word count : 659
 
 # __Vocabulary__
-| Word from the text |Synonym/definition in English | French translation |
+| Word from the text | Synonym/definition in English | French translation |
 | --- | --- | --- |
 | Valuable | Of considerable use, importance, or value | De valeur |
 | To target | To use, set up, or designate as a target or goal | Cibler |
@@ -80,14 +80,13 @@ Researchers are working on a new type of immunotherapy for triple-negative breas
 | --- | --- |
 |  |  |
 Two thirds of the mice receiving SNA with oxidized lysates had a complete remission of the tumor for approximately 90 days. Untreated mice died on day 30.
-Immunotherapy extends the survival time of mice with triple-negative cancer following injection of this tumor. None of the treated mice showed any obvious side effects or autoimmune responses. The test is not yet ready for clinical trials. Results will be available this fall.
+Immunotherapy extends the survival time of mice with triple-negative cancer following injection of this tumor. None of the treated mice showed any obvious side effects or autoimmune responses.  
 
 # *__Remaining questions__*
 |  
 | --- | --- |
 |  |  |
-/
-
+Results will be available this fall. However the test is not yet ready for clinical trials.
 
 
 

@@ -1,0 +1,98 @@
+---
+title: "Article 3 : Study finds global trends in women's breast cancer show cause for concern"
+description: |
+  
+author:
+  - name: Pinchon Audrey
+    url: {}
+date: 11-07-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# __Description__
+- Source of the article : https://www.sciencedaily.com/releases/2020/07/200723143707.htm
+- Publication date : 23rd July 2020
+- Word count : 756
+
+# __Vocabulary__
+| Word from the text | Synonym/definition in English | French translation |
+| --- | --- | --- |
+| Trends | The way or direction things tend to go | Tendances |
+| Concern | Worry, solicitude, or anxiety | Préoccupant, inquiétant |
+| Increase | Growth in size, strength, or quality. Rise | En augmentation, en hausse |
+| To uncover | To reveal | Découvrir, révéler |
+| Related | Associated, connected | Lié |
+| An income | Payment for goods or for services, or from rents or investments | Un revenu |
+| Knowledge | Familiarity with an area of study, as by study or experience | Connaissance |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+
+# __Analysis about the study__
+
+# *__Researchers?__*
+|  
+| --- | --- |
+|  |  |
+- Doctor Miranda Filder-Benaoudia, PhD, epidemiologist at CancerControl Alberta, Alberta Health Services, adjunct assistant professor in the departments of Oncology and Community Health Sciences at the University of Calgary's Cumming School of Medicine, member of the O'Brien Institute for Public Health.
+- Doctor Hyuna Sung, PhD, cancer epidemiologist with the American Cancer Society, and study co-author.
+
+
+# *__Published in? When ?__*
+|  
+| --- | --- |
+|  |  |
+In Science Daily newspaper, on 23 July 2020
+
+# *__General topic__* 
+|  
+| --- | --- |
+|  |  |
+Increases in breast cancer are related to women's age and place of residence. The rate of premenopausal breast cancer is increasing and the causes are not yet well known. The rate of post-menopausal breast cancer is also increasing, but the causes and risks are better known.
+
+# *__Procedure/What was examined__*
+|  
+| --- | --- |
+|  |  |
+The researchers analyzed the breast cancers of women from 41 different countries (high income countries and low-income countries) and made conclusions.
+
+# *__Conclusions/ Discovery__*
+|  
+| --- | --- |
+|  |  |
+- Inequalities in cancer mortality worldwide. 
+-	Premenopausal breast cancer is increasing significantly in 20 of 44 populations studied: roughly 47% of women in less developed countries die from it, compared to 11% in more developed countries. 
+-	Postmenopausal breast cancer is increasing significantly in 24 of the 44 populations studied and more rapidly in lower income countries: 56% of fatality rate in less developed countries compared to 21% in more developed countries. 
+-	To reduce the risk of breast cancer: to do physical activity, reducing obesity and alcohol consumption, ... 
+
+# *__Remaining questions__*
+|  
+| --- | --- |
+|  |  |
+/
+
+
+
+
+
+

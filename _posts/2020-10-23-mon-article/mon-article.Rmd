@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 # __Description__
-- Source of the article : https://www.bbc.com/news/health-53834130
+- Source of the article : ::
 - Publication date : August 19th 2020
 - Word count : 632
 
