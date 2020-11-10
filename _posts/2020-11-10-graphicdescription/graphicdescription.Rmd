@@ -15,19 +15,18 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-```
 
-```{r setup}
-SciViews:: R
+SciViews::R
 ```
-
 
 ```{r imprtation}
-data <- read("zooplankton", package = "data.io")
+data <- read("urchin_bio", package = "data.io")
 ```
 
+# **Introduction**
 
-Distill is a publication format for scientific and technical writing, native to the web.
+# **Graph and Analysis**
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
 

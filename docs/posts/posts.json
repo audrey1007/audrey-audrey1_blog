@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-11-10-graphicdescription/",
+    "title": "graphic_description",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Pinchon Audrey",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-10",
+    "categories": [
+      "Data Sciences I"
+    ],
+    "preview": {},
+    "last_modified": "2020-11-10T20:53:01+01:00"
+  },
+  {
     "path": "posts/2020-11-07-mon-article-3/",
     "title": "Article 3 : Study finds global trends in women's breast cancer show cause for concern",
     "description": {},
