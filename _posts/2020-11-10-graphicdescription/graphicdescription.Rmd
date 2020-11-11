@@ -1,13 +1,13 @@
 ---
-title: "graphic_description"
+title: "Graph on the weight of solid parts of urchins"
 categories: 
   - Data Sciences I 
 description: |
-  A short description of the post.
+  Comparison of data on fisheries urchins and farm's urchins.
 author:
   - name: Pinchon Audrey
     url: {}
-date: 11-10-2020
+date: 11-11-2020
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +15,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
+# package
 SciViews::R
 ```
 
@@ -23,10 +23,23 @@ SciViews::R
 data <- read("urchin_bio", package = "data.io")
 ```
 
+
 # **Introduction**
+In this article, we compare, thanks to a graph, the data of the weight of the solid parts of urchins from to different environments  :fisheries urchins and farm's urchins. 
+
 
 # **Graph and Analysis**
 
+```{r}
+chart(data = urchin_bio, ~ solid_parts %fill=% origin | origin) +
+geom_histogram(data = select(urchin_bio, -origin), fill = "grey", bins = 20) + 
+  scale_fill_manual(breaks = c("Farm", "Fishery"), 
+                       values = c("red", "99FF00")) +
+  geom_histogram(show.legend = TRUE, bins = 20) +
+  labs(title = "Weight of solid parts of urchins") +
+      labs(x = "Solid_parts (g)", y = "Count") 
+```
+On this graph, we can see that the weight of the solid parts of farm's urchins and fisheries urchins is globally the same. Most individuals have a weight of solid parts between a value close to 0 grams and 35 grams. However, the weight of the solid parts of some farm's urchins can be up to more than 60 grams while the weight of solid parts of fisheries urchins can be up to above 50 grams. We can conclude the some farm's urchins are heavier than the fisheries urchins.
 
 
 
