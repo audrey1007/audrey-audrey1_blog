@@ -59,7 +59,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |  
 | --- | --- |
 |  |  |
-In Science Daily newspaper, on 17 August 2020
+In Science Daily newspaper, August 17th 2020
 
 # *__General topic__* 
 |  

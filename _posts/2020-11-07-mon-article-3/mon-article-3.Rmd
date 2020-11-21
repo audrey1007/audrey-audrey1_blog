@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # __Description__
 - Source of the article : https://www.sciencedaily.com/releases/2020/07/200723143707.htm
-- Publication date : 23rd July 2020
+- Publication date : July 23rd 2020
 - Word count : 756
 
 # __Vocabulary__
@@ -89,7 +89,6 @@ The researchers analyzed the breast cancers of women from 41 different countries
 | --- | --- |
 |  |  |
 /
-
 
 
 

@@ -1,0 +1,80 @@
+---
+title: "Article 4  : Venom from honeybees found to kill aggressive breast cancer cells"
+description: 
+  
+author:
+  - name: Pinchon Audrey
+    url: {}
+date: 11-21-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://ichef.bbci.co.uk/news/800/cpsprodpb/D962/production/_114205655_gettyimages-1210871686.jpg)
+
+# __Description__
+- Source of the article : https://www.sciencedaily.com/releases/2020/09/200901093412.htm
+- Publication date : September 2nd 2020
+- Word count : 756
+
+# __Vocabulary__
+| Word from the text | Synonym/definition in English | French translation |
+| --- | --- | --- |
+| The aim | The point to be hit | L’objectif |
+| Property | A basic, essential, or special quality of a thing | Propriété |
+| A component | A basic or fundamental part from which something is made | Un composant |
+| To mirror | To be or give a faithful representation, image, or idea of | Refléter |
+| Potent | Powerful | Puissant |
+| To look at | To examine | Examiner |
+| Pathway | A path, course, route, or way | La voie |
+| To shut down | To stop | Arrêter, interrompre |
+| Overexpressed | / | Surexprimé |
+| Incredibly | Impossible or hard to believe | Incroyable |
+| Within | In or into the interior of, inside | Dans |
+| To provide | To make available; furnish | Fournir |
+| A hole | An opening through something | Un trou |
+| To enable | To make possible or easy | Permettre |
+| To undertake | Project: commit to | Entreprendre |
+
+# __Analysis about the study__
+
+# *__Researchers?__*
+-	Dr Ciara Duffy from the Harry Perkins Institute of Medical Research and The University of Western Australia
+-	Western Australia's Chief Scientist Professor Peter Klinken
+
+# *__Published in? When ?__*
+In Science Daily newspaper, September 2nd 2020
+
+# *__General topic__* 
+A study shows that honeybees venom kills aggressive breast cancer cells. Researchers produced synthetically a major component of the venom, melittin, and observed the effects.
+
+# *__Procedure/What was examined__*
+-	Sampling of 312 honeybees and bumblebees from different places.
+-	Put the bees to sleep with carbon dioxide and keep them on ice.
+-	Extraction of honeybees’ venom.
+-	Venom test on clinical subtypes of breast cancer (hormone receptor positive, HER2 enriched and triple negative breast cancer).
+-	Synthetic melittin production + observations.
+-	Comparison of the effects of different bees and bumblebees.
+
+# *__Conclusions/ Discovery__*
+Bee venom destroys (100%) triple negative breast cancer cells and HER2-enriched breast cancer cells, while having minimal effects on normal cells.
+Melittin can suppress the growth of deadly breast cancer cells, particularly triple negative breast cancer.
+Comparing bees from different places, the effects of the venom are almost identical on breast cancer cells. Bumblebees are unable to induce the death of cancer cells.
+
+
+# *__Remaining questions__*
+/
+
+
+
+
+
+
+
+
+
