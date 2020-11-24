@@ -10,9 +10,11 @@
       }
     ],
     "date": "2020-11-21",
-    "categories": [],
+    "categories": [
+      "English for Science"
+    ],
     "preview": {},
-    "last_modified": "2020-11-21T14:40:10+01:00"
+    "last_modified": "2020-11-24T14:17:08+01:00"
   },
   {
     "path": "posts/meal/",
@@ -62,9 +64,11 @@
       }
     ],
     "date": "2020-11-07",
-    "categories": [],
+    "categories": [
+      "English for Science"
+    ],
     "preview": {},
-    "last_modified": "2020-11-21T13:53:40+01:00"
+    "last_modified": "2020-11-24T14:17:00+01:00"
   },
   {
     "path": "posts/2020-11-01-article-2/",
@@ -77,9 +81,11 @@
       }
     ],
     "date": "2020-11-01",
-    "categories": [],
+    "categories": [
+      "English for Science"
+    ],
     "preview": {},
-    "last_modified": "2020-11-21T14:15:45+01:00"
+    "last_modified": "2020-11-24T14:16:54+01:00"
   },
   {
     "path": "posts/2020-10-23-mon-article/",
@@ -92,9 +98,11 @@
       }
     ],
     "date": "2020-10-23",
-    "categories": [],
+    "categories": [
+      "English for Science"
+    ],
     "preview": {},
-    "last_modified": "2020-11-02T15:54:33+01:00"
+    "last_modified": "2020-11-24T14:16:07+01:00"
   },
   {
     "path": "posts/about/",
