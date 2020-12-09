@@ -2,7 +2,8 @@
 title: "Article 3 : Study finds global trends in women's breast cancer show cause for concern"
 categories: 
   - English for Science
-description: 
+  - Breast cancer 
+description: This article is about premenoposal and postmenoposal cancer. it shows that there are also inequalities in cancer-related mortality around the world.
   
 author:
   - name: Pinchon Audrey

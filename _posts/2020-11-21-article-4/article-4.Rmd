@@ -2,12 +2,14 @@
 title: "Article 4  : Venom from honeybees found to kill aggressive breast cancer cells"
 categories: 
   - English for Science
-description: 
+  - Breast cancer 
+description: The effect of honeybees venom has been tested on clinical subtypes of breast cancer.
   
 author:
   - name: Pinchon Audrey
     url: {}
 date: 11-21-2020
+preview : https://ichef.bbci.co.uk/news/800/cpsprodpb/D962/production/_114205655_gettyimages-1210871686.jpg
 output:
   distill::distill_article:
     self_contained: false

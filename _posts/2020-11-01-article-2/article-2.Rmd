@@ -2,7 +2,8 @@
 title: "Article 2 : Immunotherapy extends survival in mouse model of hard-to-treat breast cancer"
 categories: 
   - English for Science
-description: 
+  - Breast cancer 
+description: Researchers are working on a new type of immunotherapy for triple negative breast cancer that is difficult to treat.
   
 author:
   - name: Pinchon Audrey

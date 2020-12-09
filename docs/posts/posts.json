@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/2020-11-21-article-4/",
-    "title": "Article 4  : Venom from honeybees found to kill aggressive breast cancer cells",
-    "description": {},
-    "author": [
-      {
-        "name": "Pinchon Audrey",
-        "url": {}
-      }
-    ],
-    "date": "2020-11-21",
-    "categories": [
-      "English for Science"
-    ],
-    "preview": {},
-    "last_modified": "2020-11-24T14:17:08+01:00"
-  },
-  {
     "path": "posts/meal/",
     "title": "My English Activity Log : MEAL",
     "description": {},
@@ -26,13 +9,31 @@
         "url": {}
       }
     ],
-    "date": "2020-11-21",
+    "date": "2020-12-09",
     "categories": [
       "English for Science",
       "M.E.A.L."
     ],
     "preview": {},
-    "last_modified": "2020-11-21T14:13:51+01:00"
+    "last_modified": "2020-12-09T13:36:13+01:00"
+  },
+  {
+    "path": "posts/2020-11-21-article-4/",
+    "title": "Article 4  : Venom from honeybees found to kill aggressive breast cancer cells",
+    "description": "The effect of honeybees venom has been tested on clinical subtypes of breast cancer.",
+    "author": [
+      {
+        "name": "Pinchon Audrey",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-21",
+    "categories": [
+      "English for Science",
+      "Breast cancer"
+    ],
+    "preview": "https://ichef.bbci.co.uk/news/800/cpsprodpb/D962/production/_114205655_gettyimages-1210871686.jpg",
+    "last_modified": "2020-12-09T12:37:57+01:00"
   },
   {
     "path": "posts/2020-11-10-graphicdescription/",
@@ -56,7 +57,7 @@
   {
     "path": "posts/2020-11-07-mon-article-3/",
     "title": "Article 3 : Study finds global trends in women's breast cancer show cause for concern",
-    "description": {},
+    "description": "This article is about premenoposal and postmenoposal cancer. it shows that there are also inequalities in cancer-related mortality around the world.",
     "author": [
       {
         "name": "Pinchon Audrey",
@@ -65,15 +66,16 @@
     ],
     "date": "2020-11-07",
     "categories": [
-      "English for Science"
+      "English for Science",
+      "Breast cancer"
     ],
     "preview": {},
-    "last_modified": "2020-11-24T14:17:00+01:00"
+    "last_modified": "2020-12-09T12:34:08+01:00"
   },
   {
     "path": "posts/2020-11-01-article-2/",
     "title": "Article 2 : Immunotherapy extends survival in mouse model of hard-to-treat breast cancer",
-    "description": {},
+    "description": "Researchers are working on a new type of immunotherapy for triple negative breast cancer that is difficult to treat.",
     "author": [
       {
         "name": "Pinchon Audrey",
@@ -82,15 +84,16 @@
     ],
     "date": "2020-11-01",
     "categories": [
-      "English for Science"
+      "English for Science",
+      "Breast cancer"
     ],
     "preview": {},
-    "last_modified": "2020-11-24T14:16:54+01:00"
+    "last_modified": "2020-12-09T12:26:30+01:00"
   },
   {
     "path": "posts/2020-10-23-mon-article/",
     "title": "Article 1 : Breast cancer: One-dose radiotherapy 'as effective as full course'",
-    "description": {},
+    "description": "A new radiotherapy for breast cancer has been developed and tested on women.",
     "author": [
       {
         "name": "Pinchon Audrey",
@@ -99,10 +102,11 @@
     ],
     "date": "2020-10-23",
     "categories": [
-      "English for Science"
+      "English for Science",
+      "Breast cancer"
     ],
-    "preview": {},
-    "last_modified": "2020-11-24T14:16:07+01:00"
+    "preview": "https://ichef.bbci.co.uk/news/800/cpsprodpb/B7A5/production/_114031074_gettyimages-501972854.jpg",
+    "last_modified": "2020-12-09T12:22:40+01:00"
   },
   {
     "path": "posts/about/",
