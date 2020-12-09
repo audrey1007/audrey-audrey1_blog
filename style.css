@@ -1,12 +1,12 @@
 .distill-site-nav {
   color: rgba(255, 255, 255, 0.8);
-  background-color: #33FF99;
+  background-color: #FF99FF;
   font-size: 15px;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .distill-site-nav a {
-  color: black;
+  color: #CC0066;
   text-decoration: none;
 }
 
