@@ -3,7 +3,8 @@ title: "Breast Cancer Blog"
 output_dir: "docs"
 navbar:
   logo:
-    image: images/cancer.jpg
+    image: https://gcm.rmnet.be/imgcontrol/c750-d511/clients/rmnet/content/medias/medical/oncology/pink_ribbon.jpg
+    href: https://gcm.rmnet.be/imgcontrol/c750-d511/clients/rmnet/content/medias/medical/oncology/pink_ribbon.jpg
   right:
     - text: "Home"
       href: index.html
