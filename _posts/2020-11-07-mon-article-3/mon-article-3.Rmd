@@ -3,11 +3,12 @@ title: "Article 3 : Study finds global trends in women's breast cancer show caus
 categories: 
   - English for Science
   - Breast cancer 
-description: This article is about premenoposal and postmenoposal cancer. it shows that there are also inequalities in cancer-related mortality around the world.
+description: This article is about premenoposal and postmenoposal cancer. it shows that there are also inequalities in cancer-related mortality around the world. 
   
 author:
   - name: Pinchon Audrey
     url: {}
+preview : https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Pink_ribbon.svg/180px-Pink_ribbon.svg.png
 date: 11-07-2020
 output:
   distill::distill_article:
@@ -18,8 +19,16 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Pink_ribbon.svg/180px-Pink_ribbon.svg.png)
+The pink ribbon, the symbol for breast cancer awareness. By MesserWoland.
+
+License : MesserWoland, CC BY-SA 3.0, via Wikipedia. 
+
+[Link to the image](https://fr.wikipedia.org/wiki/Cancer_du_sein#/media/Fichier:Pink_ribbon.svg)
+
+
 # __Description__
-- Source of the article : https://www.sciencedaily.com/releases/2020/07/200723143707.htm
+- Source of the article : [link](https://www.sciencedaily.com/releases/2020/07/200723143707.htm) 
 - Publication date : July 23rd 2020
 - Word count : 756
 

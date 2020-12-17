@@ -8,7 +8,6 @@ description: A new radiotherapy for breast cancer has been developed and tested 
 author:
   - name: Pinchon Audrey 
     url: {}
-preview : https://ichef.bbci.co.uk/news/800/cpsprodpb/B7A5/production/_114031074_gettyimages-501972854.jpg
 date: 10-23-2020
 output:
   distill::distill_article:
@@ -19,10 +18,9 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](https://ichef.bbci.co.uk/news/800/cpsprodpb/B7A5/production/_114031074_gettyimages-501972854.jpg)
 
 # __Description__
-- Source of the article : https://www.bbc.com/news/health-53834130
+- Source of the article : [link](https://www.bbc.com/news/health-53834130)
 - Publication date : August 19th 2020
 - Word count : 632
 

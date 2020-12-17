@@ -8,6 +8,7 @@ description: Researchers are working on a new type of immunotherapy for triple n
 author:
   - name: Pinchon Audrey
     url: {}
+preview : https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lab_mouse_mg_3263.jpg/1280px-Lab_mouse_mg_3263.jpg
 date: 11-01-2020
 output:
   distill::distill_article:
@@ -18,9 +19,16 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lab_mouse_mg_3263.jpg/1280px-Lab_mouse_mg_3263.jpg)
+Laboratory mice. They are used for experiments in laboratories. By Rama.
+
+License : Rama, CC BY-SA 2.0 fr, via Wikipedia.
+
+[Link to the image](https://fr.wikipedia.org/wiki/Souris_de_laboratoire#/media/Fichier:Lab_mouse_mg_3263.jpg)
+
 
 # __Description__
-- Source of the article : https://www.sciencedaily.com/releases/2020/08/200817104327.htm
+- Source of the article : [link](https://www.sciencedaily.com/releases/2020/08/200817104327.htm)
 - Publication date : August 17th 2020
 - Word count : 659
 
