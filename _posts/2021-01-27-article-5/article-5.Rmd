@@ -1,0 +1,84 @@
+---
+title: "Article 5  : Scientists find a switch to flip and turn off breast cancer growth and metastasis"
+description: This article talks about the discovery of two genes that are responsible for breast cancer. Researchers studied these two genes. 
+  
+author:
+  - name: Pinchon Audrey
+    url: {}
+date: 01-27-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# __Description__
+- Source of the article : [link](https://www.sciencedaily.com/releases/2020/06/200602130507.htm)
+- Publication date : June 2nd 2020
+- Word count : 485
+
+# __Vocabulary__
+| Word from the text | Synonym/definition in English | French translation |
+| --- | --- | --- |
+| Occuring (to occur) | To happen | Se produisant (se produire) |
+| Compelling | Persuasive | Convaincant |
+| Trial | The act of testing to find out if someone or something is useful, valuable, … | Essai |
+| Involvement | Taking part in | Implication |
+| Spread | Expansion | Propagation |
+| Closely | Physically close | Étroitement |
+| To shrink | Become smaller | Rétrécir, diminuer |
+| To fail | Not succeed | Échouer, ne pas réussir à faire qch |
+| To delay | Cause to be late | Retarder |
+| Novel | New, different | Nouvelle |
+
+# __Analysis about the study__
+
+# *__Researchers?__*
+|  
+| --- | --- |
+|  |  |
+-	Dr. Reza Izadpanah and his team 
+-	Members of the team : Eckhard Alt, David Jansen, Abigail Chaffin, Stephen Braun, Aaron Dumont, Ricardo Mostany and Matthew Burow of Tulane University
+-	Dr Bysani Chandraseka of the University of Missouri
+
+# *__Published in? When ?__*
+|  
+| --- | --- |
+|  |  |
+In Science Daily newspaper, June 2nd 2020
+
+# *__General topic__* 
+|  
+| --- | --- |
+|  |  |
+Researchers at Tulane University School of Medicine identified two genes (TRAF3IP2 and Rab27a) and examined the role they play.
+
+# *__Procedure/What was examined__*
+|  
+| --- | --- |
+|  |  |
+-	Identification of two genes (TRAF3IP2 and Rab27a)
+-	Study of the role of the two genes 
+-	Inhibition, deactivation of the TRAF3IP2 and Rab27a tested in mouse models that closely resemble humans
+-	Rab27a silenced
+-	Observations when genes stop working
+
+# *__Conclusions/ Discovery__*
+|  
+| --- | --- |
+|  |  |
+-	TRAF3IP2 and Rab27a : role in breast cancer growth and metastasis
+-	Suppression of the expression of either gene has led to a decline in tumor growth and the spread of the cancer to other organs
+-	Rab27a silenced : no tumor growth but spread of a small number of cancer cells to other parts of the body
+-	Deactivation of the TRAF3IP2 gene : no spread (“metastasis” or “micrometastasis”) of the original tumor cells for a full year after treatment
+-	Inhibition of the TRAF3IP2 gene : arrest of future tumor growth + reduction of existing tumors to undetectable levels
+
+# *__Remaining questions__*
+|  
+| --- | --- |
+|  |  |
+The team is working on obtaining FDA approval. They hope to begin clinical trials soon.
+
