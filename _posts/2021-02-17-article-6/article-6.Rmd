@@ -1,0 +1,85 @@
+---
+title: "Article 6 : How breast cancer cells hide from immune attack"
+categories: 
+  - English for Science
+  - Breast cancer 
+description: Researchers have found a way to improve immunotherapy
+author:
+  - name: Pinchon Audrey
+    url: {}
+date: 02-17-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# __Description__
+- Source of the article : [link](https://www.sciencedaily.com/releases/2021/01/210127140132.htm)
+- Publication date : January 27th 2021
+- Word count : 533
+
+# __Vocabulary__
+| Word from the text | Synonym/definition in English | French translation |
+| --- | --- | --- |
+| To feature | Give prominence | Présenter, figurer |
+| To harness (sth) | Power of (sth) | Exploiter |
+| To avoid | Escape, evade | Échapper |
+| To set out to | Intend | Chercher à faire (qch) |
+| Computational | Involving, calculation | Statistique, calcul |
+| Through | By way of | Par |
+| To link | Correlate, associate | Lier |
+| Tool | Implement, instrument | Outil |
+| Outcome | Result | Résultat |
+| Feature | Characteristic |Caractéristique |
+| Sample | Representative piece | Échantillon |
+| The top-ranked | / | Le mieux classé |
+
+# __Analysis about the study__
+
+# *__Researchers?__*
+|  
+| --- | --- |
+|  |  |
+-	Researchers at the Indiana University Melvin and Bren Simon Comprehensive Cancer Center 
+-	Xinna Zhang (member of the IU Simon Comprehensive Cancer Center and the lead author of the study and assistant professor of medical and molecular genetics at IU School of Medicine.), PhD, and colleagues
+-	Xiongbin Lu, PhD, Vera Bradley Foundation Professor of Breast Cancer Innovation and cancer center researcher
+-	Chi Zhang, PhD, assistant professor of medical and molecular genetics at IU School of Medicine
+
+# *__Published in? When ?__*
+|  
+| --- | --- |
+|  |  |
+In Science Daily newspaper, January 27th 2021
+
+# *__General topic__* 
+|  
+| --- | --- |
+|  |  |
+Researchers have discovered how breast cancer cells can hide from immune cells to stay alive: Breast cancer cells with a lot of MAL2 (protein) on the cell surface escape immune attack. Understanding how they escape this could help improve immunotherapy.
+
+# *__Procedure/What was examined__*
+|  
+| --- | --- |
+|  |  |
+-	Development of a computational tool to analyze data sets from more than 1,000 cancer patients thanks to the Cancer Genome Atlas.  
+-	Analysis of samples
+-	Discovery of MAL2 + study 
+
+# *__Conclusions/ Discovery__*
+|  
+| --- | --- |
+|  |  |
+-	There is more MAL2 (protein) in breast cancer cells than in normal cells. 
+-	Patients have a lower survival rate when the level of this protein is high in breast cancer (especially in triple negative breast cancer).
+-	High levels of MAL2 increase tumor growth. 
+-	Inhibition of MAL2 can stop tumor growth almost completely.
+
+# *__Remaining questions__*
+|  
+| --- | --- |
+|  |  |
+/
