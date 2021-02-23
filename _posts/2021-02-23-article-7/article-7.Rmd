@@ -1,0 +1,87 @@
+---
+title: "Article 7 : New way to target some rapidly dividing cancer cells, leaving healthy cells unharmed"
+categories: 
+  - English for Science
+  - Breast cancer 
+description: Researchers have found a way to target breast cancer cells by attacking the heart of their cell division mechanism. This technique has only been tested in labs using cancer cells from patients. 
+author:
+  - name: Pinchon Audrey
+    url: {}
+date: 02-23-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# __Description__
+- Source of the article : [link](https://www.sciencedaily.com/releases/2020/09/200909114901.htm)
+- Publication date : September 9th 2020
+- Word count : 627
+
+# __Vocabulary__
+| Word from the text | Synonym/definition in English | French translation |
+| --- | --- | --- |
+| Unharmed | Not damaged | Intact |
+| Core | Essential part | Cœur, noyau |
+| To advance | To progress | Faire avancer, progresser |
+| Subset | Set within a larger set | Sous-ensemble |
+| Drawback | Disadvantage | Inconvenient |
+| Bone marrow | Substance inside bones | Moelle osseuse |
+| Fuel | Add energy to | Alimenter |
+| Case | Instance | Cas |
+| To come across (sth) | Encounter (sth) | Trouver par hasard |
+| Act | Take action | Agir |
+| Shape | Physical form | Forme |
+| Close | Rigorous | Approfondi  |
+| To remove (sth) | Edit out | Enlever, éliminer |
+| To attempt (sth) | To try | Essayer (de faire qch) |
+
+# __Analysis about the study__
+
+# *__Researchers?__*
+|  
+| --- | --- |
+|  |  |
+-	Scientists at Johns Hopkins Medicine and the University of Oxford
+-	Andrew Holland, Ph.D., associate professor of molecular biology and genetics at the Johns Hopkins University School of Medicine
+
+# *__Published in? When ?__*
+|  
+| --- | --- |
+|  |  |
+In Science Daily newspaper, September 9th 2020
+
+# *__General topic__* 
+|  
+| --- | --- |
+|  |  |
+Researchers at Johns Hopkins Medicine and Oxford University have found a way to kill some breast cancer cells that divide quickly, leaving healthy cells intact. For this, they selectively attack the core of their cell division mechanism.
+
+# *__Procedure/What was examined__*
+|  
+| --- | --- |
+|  |  |
+-	Research on cell division mechanisms specific to cancer cells
+-	Discovery of a breast cancer cell line that depends on centrioles to divide and survive.  But many cells can divide without centrioles and centrosomes.
+-	Discovery: breast cancer cells grown in the laboratory cannot divide without centrioles and centrosomes. 
+-	Analysis: centriole-dependent breast cancer cells have an abnormally copied section of the genome many times + study of the genes encoded in this region.
+-	Discovery: a gene produces high levels of a protein (TRIM37) that controls centrosomes.
+-	Addition of a drug (PLK4 inhibitor, disrupts the proteins that make centrioles) to breast cancer cells with normal levels of TRIM37 + observations. 
+-	Addition of the drug to breast cancer cells with high levels of TRIM37 + observations. 
+
+# *__Conclusions/ Discovery__*
+|  
+| --- | --- |
+|  |  |
+-	By adding the drug to breast cancer cells with normal levels of TRIM37, the cells are able to divide even without the cell's centrioles.
+-	By adding the drug to breast cancer cells with high levels of TRIM37, the cells cannot longer divide and most cells stop growing and die.
+
+# *__Remaining questions__*
+|  
+| --- | --- |
+|  |  |
+/

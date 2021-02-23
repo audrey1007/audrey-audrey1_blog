@@ -3,7 +3,7 @@ title: "Article 6 : How breast cancer cells hide from immune attack"
 categories: 
   - English for Science
   - Breast cancer 
-description: Researchers have found a way to improve immunotherapy
+description: Researchers have found a way to improve immunotherapy.
 author:
   - name: Pinchon Audrey
     url: {}
