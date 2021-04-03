@@ -1,0 +1,29 @@
+---
+title: "Introduction"
+description: |
+
+author:
+  - name: Pinchon Audrey
+    url: {}
+date: 04-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+For my English course, I chose an interesting biological subject that interests me. It’s breast cancer.  On my blog, there are seven different articles about research into different ways to stop (or almost) the breast cancer. 
+
+The breast cancer affects women.  It can also affect a few men but, in these articles, we are mainly interested in women. There are several types of breast cancer including triple negative breast cancer. Triple negative breast cancer is more aggressive than others breast cancers and he affects roughly 10-15% of people. It’s difficult to treat it because it doesn’t produce antigens recognized by the immune system. There are different ways to treat completely (or nearly completely) breast cancer. Not all techniques work and it also depends on the person and their type of cancer. In addition, many drugs commonly used for breast cancer are not efficient. 
+
+Different researchers of different laboratories are working on one or more ways to stop the spread of breast cancer tumors or to treat it. Studies show that there are inequalities in cancer mortality around the world. Premenopausal and postmenopausal breast cancer is increasing significantly in the world.
+
+Other research’s show for example that several doses of radiotherapy are not always efficient to treat the cancer.  An intraoperative targeted radiotherapy is a single and targeted dose that can be given at the same time as the operation to remove the tumor. This is shown to be as effective as long-term treatment. Researches have also looked for a new type of immunotherapy to treat de breast cancer.
+
+There are different ways to make tests. Tests are made on laboratory animals such as mice. From other tests, they take cells from patients in other to make a culture of cells and to do tests on them. 
+
+October is breast cancer awareness month in the world. Many people are diagnosed with this cancer every year. 
+

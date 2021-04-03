@@ -1,5 +1,5 @@
 ---
-title: "Breast Cancer - Audrey's Blog"
+title: "Recent posts"
 site: distill::distill_website
 listing: posts
 ---
@@ -7,3 +7,14 @@ listing: posts
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
 ```
+
+## Homepage
+
+Welcome to my blog ! This blog was created for my English my Data Science courses. It is divided in multiple sections :
+
+- **Breast Cancer** : articles on Breast Cancer.
+- **Data Science 1** : for my Data Science course
+- **English for Science** : for the analyzes of my articles and my English Activity Log (M.E.A.L) 
+- **M.E.A.L** : things I did during the week, the month.
+
+I hope you have a good time !
