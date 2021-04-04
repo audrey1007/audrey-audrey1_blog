@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-description: |
+description: The introduction of the portfolio 
 
 author:
   - name: Pinchon Audrey
