@@ -1,5 +1,8 @@
 ---
 title: "Introduction"
+categories: 
+  - English for Science
+  - Breast cancer 
 description: The introduction of the portfolio 
 
 author:
@@ -27,3 +30,5 @@ There are different ways to make tests. Tests are made on laboratory animals suc
 
 October is breast cancer awareness month in the world. Many people are diagnosed with this cancer every year. 
 
+
+**Word count** :314

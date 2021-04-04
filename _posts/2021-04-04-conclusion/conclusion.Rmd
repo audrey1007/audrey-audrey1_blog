@@ -1,0 +1,25 @@
+---
+title: "Conclusion"
+categories: 
+  - English for Science
+  - Breast cancer
+description: The conclution of the portfolio
+author:
+  - name: Pinchon Audrey
+    url: {}
+date: 04-04-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+In conclusion, different laboratories with different researchers have found different ways to treat completely or almost completely the breast cancer. There are different types of breast cancer, so it is difficult to find care for all types of breast cancer. There are still to make tests before testing on people with the disease. Some tests are not ready for clinical trials yet. It is interesting to see how the laboratories do their research. 
+
+The analysis of these articles has learnt me new things. For example, I learnt that the venom of honeybees kills aggressive breast cancer cells. It is the first time that I have analyzed this kind of scientific article in a course. It takes work but I enjoyed it because it helps me to improve my vocabulary and my learning in English.
+
+**Word count** : 134
+

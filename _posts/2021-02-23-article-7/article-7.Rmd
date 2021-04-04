@@ -7,6 +7,7 @@ description: Researchers have found a way to target breast cancer cells by attac
 author:
   - name: Pinchon Audrey
     url: {}
+preview : https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Centrosome_%28borderless_version%29-en.svg/400px-Centrosome_%28borderless_version%29-en.svg.png
 date: 02-23-2021
 output:
   distill::distill_article:
@@ -16,6 +17,13 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Centrosome_%28borderless_version%29-en.svg/400px-Centrosome_%28borderless_version%29-en.svg.png)
+
+License : Kelvinsong, CC BY 3.0, via Wikipedia. 
+
+[Link to the image](https://en.wikipedia.org/wiki/Centrosome#/media/File:Centrosome_(borderless_version)-en.svg)
 
 # __Description__
 - Source of the article : [link](https://www.sciencedaily.com/releases/2020/09/200909114901.htm)
