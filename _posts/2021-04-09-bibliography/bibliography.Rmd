@@ -18,40 +18,61 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Sources of Article 1: 
+|  
+| --- | --- |
+|  |  |
 **Source of the article:** Schrear, Rachel. “Breast cancer: One-dose radiotherapy ‘as effective as full course’”. BBC. August 20,2020. <https://www.bbc.com/news/health-53834130>. Consulted on October 23, 2020.
 
 
 # Sources of Article 2: 
+|  
+| --- | --- |
+|  |  |
 **Source of the article:** American Chemical Society. "Immunotherapy extends survival in mouse model of hard-to-treat breast cancer.". ScienceDaily. August 17, 2020. <https://www.sciencedaily.com/releases/2020/08/200817104327.htm>. Consulted on November 01, 2020.
 
 **Source of the image:** Rama. CC BY-SA 2.0 fr, via Wikipedia. July 04, 2008. <https://fr.wikipedia.org/wiki/Souris_de_laboratoire#/media/Fichier:Lab_mouse_mg_3263.jpg>. Consulted on November 01, 2020.
 
 
 # Sources of Article 3: 
+|  
+| --- | --- |
+|  |  |
 **Source of the article :** University of Calgary. "Study finds global trends in women's breast cancer show cause for concern: Findings show significant increase in premenopausal breast cancer rates in countries around the world, including Canada.". ScienceDaily, July 23, 2020. <https://www.sciencedaily.com/releases/2020/07/200723143707.htm>. Consulted on November 07, 2020.
 
 **Source of the image:** MesserWoland. CC BY-SA 3.0, via Wikipedia. February 16, 2007. <https://fr.wikipedia.org/wiki/Cancer_du_sein#/media/Fichier:Pink_ribbon.svg>. Consulted on November 07, 2020.
 
 
 # Sources of Article 4: 
+|  
+| --- | --- |
+|  |  |
 **Source of the article:** Harry Perkins Institute of Medical Research. "Venom from honeybees found to kill aggressive breast cancer cells.". ScienceDaily. September 2, 2020. <https://www.sciencedaily.com/releases/2020/09/200901093412.htm>. Consulted on November 21, 2020.
 
 **Source of the image:** Huffman Todd. CC BY 2.0, via Wikipedia. July 16, 2007. <https://en.wikipedia.org/wiki/Worker_bee#/media/File:Todd_Huffman_-_Lattice_(by).jpg>. Consulted on November 21, 2020.
 
 
 # Source of Article 5: 
+|  
+| --- | --- |
+|  |  |
 **Source of the article:** Tulane University. "Scientists find a switch to flip and turn off breast cancer growth and metastasis.”. ScienceDaily, 2 June 2020. <https://www.sciencedaily.com/releases/2020/06/200602130507.htm>. Consulted on January 27, 2021.
 
 **Source of the image:** National Breast Cancer Foundation. <https://www.nationalbreastcancer.org/metastatic-breast-cancer>. Consulted on January 27, 2021.
 
 
 # Sources of Article 6: 
+|  
+| --- | --- |
+|  |  |
 **Source of the article:** Indiana University School of Medicine. "How breast cancer cells hide from immune attack.”. ScienceDaily, January 27, 2021. <https://www.sciencedaily.com/releases/2021/01/210127140132.htm>. Consulted on February 17, 2021.
 
 **Source of the image:** BruceBlaus, CC BY-SA 4.0, via Wikipedia. November 5, 2015. <https://en.wikipedia.org/wiki/Breast_cancer#/media/File:Breast_Cancer.png>. Consulted on February 17, 2021.
 
 
 # Sources of Article 7: 
+|  
+| --- | --- |
+|  |  |
 **Source of the article:** Johns Hopkins Medicine. "New way to target some rapidly dividing cancer cells, leaving healthy cells unharmed.". ScienceDaily, September 09, 2020. <https://www.sciencedaily.com/releases/2020/09/200909114901.htm>. Consulted on February 21, 2021.
 
 **Source of the image:** Kelvinsong, CC BY 3.0, via Wikipedia. December 09, 2012. <https://en.wikipedia.org/wiki/Centrosome#/media/File:Centrosome_(borderless_version)-en.svg>. Consulted on February 21, 2021.
