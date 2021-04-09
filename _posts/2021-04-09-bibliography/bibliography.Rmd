@@ -3,7 +3,7 @@ title: "Bibliography"
 categories: 
   - English for Science
   - Breast cancer 
-description: The bibliography of the portfolio. 
+description: The bibliography of the portfolio
 author:
   - name: Pinchon Audrey
     url: {}
@@ -39,7 +39,7 @@ knitr::opts_chunk$set(echo = FALSE)
 **Source of the image:** Huffman Todd. CC BY 2.0, via Wikipedia. July 16, 2007. <https://en.wikipedia.org/wiki/Worker_bee#/media/File:Todd_Huffman_-_Lattice_(by).jpg>. Consulted on November 21, 2020.
 
 
-Sources of Article 5: 
+# Source of Article 5: 
 **Source of the article:** Tulane University. "Scientists find a switch to flip and turn off breast cancer growth and metastasis.”. ScienceDaily, 2 June 2020. <https://www.sciencedaily.com/releases/2020/06/200602130507.htm>. Consulted on January 27, 2021.
 
 **Source of the image:** National Breast Cancer Foundation. <https://www.nationalbreastcancer.org/metastatic-breast-cancer>. Consulted on January 27, 2021.
