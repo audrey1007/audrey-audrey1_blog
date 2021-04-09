@@ -21,9 +21,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](https://www.nationalbreastcancer.org/wp-content/uploads/metastatic-breast-cancer.jpg)
 
-Image of a metastatic breast cancer. 
+Image of a metastatic breast cancer by National Breast Cancer Foundation.
 
-[Link to the image](https://https://www.nationalbreastcancer.org/metastatic-breast-cancer)
+[Link to the image](https://www.nationalbreastcancer.org/metastatic-breast-cancer)
 
 # __Description__
 - Source of the article : [link](https://www.sciencedaily.com/releases/2020/06/200602130507.htm)

@@ -23,7 +23,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 License : BruceBlaus, CC BY-SA 4.0, via Wikipedia. 
 
-[Link to the image](https://en.wikipedia.org/wiki/Breast_cancer)
+[Link to the image](https://en.wikipedia.org/wiki/Breast_cancer#/media/File:Breast_Cancer.png)
+
 
 # __Description__
 - Source of the article : [link](https://www.sciencedaily.com/releases/2021/01/210127140132.htm)
