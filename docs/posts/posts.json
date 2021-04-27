@@ -46,9 +46,12 @@
       }
     ],
     "date": "2021-04-03",
-    "categories": [],
+    "categories": [
+      "English for Science",
+      "Breast cancer"
+    ],
     "preview": {},
-    "last_modified": "2021-04-04T12:11:37+02:00"
+    "last_modified": "2021-04-27T20:24:45+02:00"
   },
   {
     "path": "posts/2021-02-23-article-7/",
