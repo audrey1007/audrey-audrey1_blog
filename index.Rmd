@@ -1,7 +1,36 @@
 ---
 title: "Recent posts"
 site: distill::distill_website
-listing: posts
+listing: 
+  posts :
+    - about
+    
+    - 2021-04-03-introduction
+    
+    - 2020-10-23-mon-article
+    
+    - 2020-11-01-article-2
+    
+    - 2020-11-07-mon-article-3
+    
+    - 2020-11-21-article-4
+    
+    - 2021-01-27-article-5
+    
+    - 2021-02-17-article-6
+    
+    - 2021-02-23-article-7
+    
+    - 2021-04-04-conclusion
+    
+    - 2021-04-09-bibliography
+    
+    - meal
+    
+    - 2020-11-10-graphicdescription
+    
+  
+    
 ---
 
 ```{r, echo = FALSE, eval = FALSE}
